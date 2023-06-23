@@ -1,0 +1,46 @@
+
+.contact-container{
+    position: relative;
+    margin: 20rem 15rem;
+    text-align: center;
+}
+.users{
+position: absolute;
+width: 12%;
+height: 100%;
+margin-inline-start: -60px;
+margin-block-start:-130px;
+
+}
+.ellipse{
+margin: 0px;
+position: absolute;
+width: 60px;
+height: 8vh;
+bottom: 170%;
+margin-inline-start: -10px;
+
+}
+
+.contact-text h1{
+    font-size: 3rem;
+}
+.contact-text p{
+    margin-top: 0;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.contact-btn{
+    position: absolute;
+    text-align: center;
+    font-size: 1.5rem;
+    width: 20%;
+    left: 40%;
+    margin-block-start: 10px;
+    border-radius: 8px;
+    padding: 1.2rem 2rem;
+    background-color: rgb(197, 40, 40);
+    color: white;
+    text-decoration: none;
+}

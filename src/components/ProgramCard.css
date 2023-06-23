@@ -1,0 +1,46 @@
+.program-container{
+margin: 10rem 8rem;
+    
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.program-container-reverse{
+    margin: 10rem 8rem;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    
+    }
+
+.text-block{
+width: 45%;
+text-align:start ;
+}
+.heading{
+    margin-top: 0px;
+}
+.program-text{
+    margin-top:40px ;
+    font-size: 1rem;
+    color: rgb(93, 88, 88);
+    /* font-weight: 500; */
+    margin-bottom:4rem;
+    line-height: 2;
+}
+.pro-btn{
+  
+    text-align: center;
+    width: 90%;
+    border-radius: 8px;
+    padding: 0.75rem 3.5rem;
+    background-color: rgb(197, 40, 40);
+    color: white;
+    text-decoration: none;
+
+    }
+    .img-block{
+       margin-top:0px ;
+    }

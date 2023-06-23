@@ -1,0 +1,32 @@
+.card-container{
+    width:24rem ;
+    height: 10px;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    top: 5rem;
+    padding: 5px;
+    margin: 0.5rem;
+    background-color: white;
+    height: fit-content;
+}
+.card-img{
+  
+    margin-top: 0;
+    width: 20%;
+    object-fit:cover;  
+    align-self: center;
+
+}
+.card-title{
+    margin: 0.5rem 5%;
+    font-size: 1.75rem;
+    text-align: center;
+}
+.card-description{
+    margin: 0.5rem 5%;
+    font-size: 1.2rem;
+   
+    text-align: center;
+
+}

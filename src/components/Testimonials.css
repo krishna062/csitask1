@@ -1,0 +1,16 @@
+.testimonials{
+    margin: 12rem 15rem;
+    text-align: center;
+
+
+}
+.testimonials h1{
+    font-size: 3rem;
+}
+.testimonials p{
+    margin-top: 0;
+    font-size: 1.2rem;
+}
+.logo-img{
+    margin-top: 1.5rem;
+}

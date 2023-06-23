@@ -1,0 +1,41 @@
+footer{
+    position: relative;
+    width: 100%;
+   
+}
+.container{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    top: 0%;
+    margin: 4rem 6rem;
+    color: white;
+}
+.container div{
+    padding: 40px;
+    
+}
+.container p{
+    color: white;
+    font-size: 1rem;
+    font-weight: 300;
+}
+.socials{
+    position: absolute;
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+    left: 75%;
+    top: 80%;
+}
+.logoimg{
+    padding:0.75rem ;
+}
+.copyrights p{
+    position: absolute;
+    left: 9%;
+    top: 17rem;
+    font-size: 1rem;
+    color: white;
+}
